@@ -1,3 +1,3 @@
 # orta15a.github.io
 
-My personal page repo for my DnD campaign
+My personal page repo for my NMS adventures
